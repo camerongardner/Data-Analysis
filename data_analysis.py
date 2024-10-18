@@ -1,0 +1,1 @@
+print("\nThe questions that will be answered are:\n\nApp usage based on age and battery drain.\nData usage in relation to app usage time and device model.\nImpact of the number of installed apps on data usage and app usage time.\n")
