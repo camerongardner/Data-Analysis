@@ -1,1 +1,15 @@
-print("\nThe questions that will be answered are:\n\nApp usage based on age and battery drain.\nData usage in relation to app usage time and device model.\nImpact of the number of installed apps on data usage and app usage time.\n")
+import pandas as pd
+
+dataset = pd.read_csv("dataset.csv")
+
+# Print out the dataset
+# for index, row in dataset.iterrows():
+#     print(f"Row: {row}, Index: {index}")
+
+# # Print a  column
+# for row in dataset["Device Model"]:
+#     print(f"Row: {row}")
+
+#Print just a row
+for row in dataset.iterrows():
+    print(f"Row: {row}")
