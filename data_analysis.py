@@ -25,7 +25,7 @@ def plot_app_usage_vs_battery_drain(ax):
     ax.grid(True)
 
 def calculate_correlation_1():
-    # Correlation between App Usage Time, Age, and Battery Drain
+    # Correlation between App Usage Time, Age, and Battery Drain (Checks to see how well the column data relates to the other columhs being reviewed)
     correlation_1 = dataset[['App Usage Time (min/day)', 'Age', 'Battery Drain (mAh/day)']].corr()
     print("Correlation for Question 1:\n", correlation_1)
 
@@ -107,7 +107,9 @@ def main():
             fig1.canvas.manager.set_window_title('App Usage and Battery Drain')
             plot_app_usage_vs_age(axs1[0])
             plot_app_usage_vs_battery_drain(axs1[1])
+            # Code used to prevent graphs, labels and other information from getting overlapped.
             plt.tight_layout()
+            # Pauses the program and displays visualizations of the graphs.
             plt.show()
             calculate_correlation_1()
         elif choice == '2':
