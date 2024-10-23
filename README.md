@@ -37,7 +37,6 @@ Here are the questions this analysis aimed to answer:
 **Tools and Libraries**:  
 - Python 3.x
 - Pandas
-- NumPy
 - Matplotlib (or other visualization libraries)
 
 **Development Setup**:  
@@ -58,7 +57,6 @@ To run this project, follow the steps below:
 Below is a list of the python libraries that were used in the program:
 
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
-* [NumPy Documentation](https://numpy.org/doc/)
 * [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
 
 ---
