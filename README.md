@@ -63,7 +63,7 @@ Below is a list of the python libraries that were used in the program:
 
 ---
 
-## Possibe Additions
+## Possibe Improvements
 
 This project provides a foundation for data analysis, and I plan to enhance it further. Below are some areas for improvement and future additions:
 
