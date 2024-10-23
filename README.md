@@ -21,11 +21,14 @@ Watch a video demonstration of the project, including a walkthrough of the code,
 
 Here are the questions this analysis aimed to answer:
 
-1. **[Question 1]**  
-   _Answer_: Based on the analysis, [brief explanation of the result].
+1. **Question 1**  
+   _Answer_: App usage based on age and battery drain.
    
-2. **[Question 2]**  
-   _Answer_: The data indicates that [brief explanation of the result].
+2. **Question 2**  
+   _Answer_: Data usage in relation to app usage time and device model.
+
+3. **Question 2**  
+   _Answer_: Impact of the number of installed apps on data usage and app usage time.
 
 ---
 
@@ -60,7 +63,7 @@ Below is a list of the python libraries that were used in the program:
 
 ---
 
-## Future Work
+## Possibe Additions
 
 This project provides a foundation for data analysis, and I plan to enhance it further. Below are some areas for improvement and future additions:
 
