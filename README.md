@@ -1,1 +1,69 @@
-# Data-Analysis
+# Data Analysis of Mobile Device Usage and User Behavior
+
+## Overview
+
+This project is part of my continuous effort as a software engineer to develop deeper data analysis skills using Python. The software analyzes a publicly available dataset to draw insights and answer specific questions about the data. This project is an opportunity to sharpen skills in data processing, cleaning, and visualization, leveraging popular Python libraries.
+
+**Dataset Description**:  
+The dataset used for this project comes from [Mobile Device Usage and User Behavior Dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset). It contains [brief description of the data, such as number of rows, columns, and the type of data].
+
+**Purpose**:  
+The primary goal of this project is to develop a Python-based data analysis tool that answers predefined questions by processing and analyzing the data. The script demonstrates the usage of various data manipulation techniques such as filtering, aggregation, and visualization.
+
+**Video Demo**:  
+Watch a video demonstration of the project, including a walkthrough of the code, results, and insights.
+
+[Software Demo Video](put link here)
+
+---
+
+## Data Analysis Results
+
+Here are the questions this analysis aimed to answer:
+
+1. **[Question 1]**  
+   _Answer_: Based on the analysis, [brief explanation of the result].
+   
+2. **[Question 2]**  
+   _Answer_: The data indicates that [brief explanation of the result].
+
+---
+
+## Development Environment
+
+**Tools and Libraries**:  
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib (or other visualization libraries)
+
+**Development Setup**:  
+To run this project, follow the steps below:
+
+1. **Install Python**:  
+   Download and install Python 3.x from the official Python website: [here](https://www.python.org/downloads/).
+   
+2. **Install Required Libraries**:  
+   After installing Python, open a terminal or command prompt and install the necessary libraries using the following command:
+   ```bash
+   pip install pandas numpy matplotlib
+
+---
+
+## Useful Websites
+
+Below is a list of the python libraries that were used in the program:
+
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [NumPy Documentation](https://numpy.org/doc/)
+* [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
+
+---
+
+## Future Work
+
+This project provides a foundation for data analysis, and I plan to enhance it further. Below are some areas for improvement and future additions:
+
+* **Optimization**: Improve the visability and readability of the  charts generated.
+* **Extended Analysis**: Explore deeper insights by posing additional questions to the dataset.
+* **Filter Data Based on User Input**: Provide the user the ability to select columns to be filtered.
